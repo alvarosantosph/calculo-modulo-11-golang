@@ -1,4 +1,4 @@
-# Cálculo de dígito verificador no módulo 10 padrão febraban (Federação Brasileira de Bancos)
+# Cálculo de dígito verificador no módulo 11 padrão febraban (Federação Brasileira de Bancos)
 
 ```sh
 Plataforma de Desenvolvimento - GoLang
