@@ -48,3 +48,5 @@ func modulo11(num string) int {
 	if dv > 9 || dv == 0 {
 		dv = 1
 	}
+	return dv
+}
